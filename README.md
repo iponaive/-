@@ -32,7 +32,7 @@
 * **輸出檔案**：`ProjectA_2026_v1.pdf`。
 
 ## 技術實作
-* **開發語言**：PowerShell
+* **開發語言**：PowerShell<img src="http://googleusercontent.com/image_collection/image_retrieval/13859447523830970672_0" width="30" height="30" align="center">
 * **核心技術點**：
     * **Word COM 物件**：使用 `New-Object -ComObject Word.Application` 進行背景處理。
     * **座標換算**：定義 `$cmToPoints = 28.35` 進行長度單位轉換。
