@@ -1,7 +1,8 @@
 # 專案名稱：Word 批次轉 PDF 暨自動化頁面處理工具 
 
 ## 功能演示 (Demo)
-![專案操作演示](請替換成你的影片網址或GIF路徑)
+<img width="1731" height="253" alt="image" src="https://github.com/user-attachments/assets/56d2c843-40b6-47da-8821-274b4f9717f0" />
+
 
 ## 專案簡介
 本工具透過 PowerShell 驅動 Word COM 介面，自動化執行 .docx 檔案轉 PDF 之流程。處理過程包含文件清理（刪除註解與隱藏修訂）、首頁植入 PBC 印章以及動態頁尾生成。
