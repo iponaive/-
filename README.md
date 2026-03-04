@@ -1,4 +1,4 @@
-# 專案名稱：Word 批次轉 PDF 暨自動化頁面處理工具![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
+# 專案名稱：Word 批次轉 PDF 暨自動化頁面處理工具   ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
 
 
 ## 功能演示 (Demo)
